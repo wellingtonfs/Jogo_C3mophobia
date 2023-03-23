@@ -1,0 +1,4 @@
+repository "Mundo Teste@Furg_Grupo_AiC@cloud"
+  path "/"
+    br "/main"
+    co "/main"
